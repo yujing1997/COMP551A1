@@ -12,13 +12,12 @@ Dataset sources:
 
 Task devision: 
 
-- Model implementation (Friday night)
-  - Naive Bayes Model (Sabrina)
-  - Logistic Regression Model (Grace)
-  - Evaluation Accuracy (Yujing)
-  - Script to run k-fold cross validation (All)
-
-- Run experiments (Saturday)
+- Model implementation 
+  - Naive Bayes Model 
+  - Logistic Regression Model 
+  - Evaluation Accuracy 
+  - Script to run k-fold cross validation 
+- Run experiments 
 - Use 5-fold cross validation to estimate performance in all of the experiments. Evaluate the performance using accuracy. 
 - (At minimum):
   - 1. Compare the accuracy of naive Bayes and logistic regression on the four datasets.
@@ -27,8 +26,8 @@ Task devision:
   
   - (For creativity) 
       - build and implement other evaluation methods 
-      - you might investigate different stopping criteria for the gradient descent in logistic regression, develop an automated approach to select a good subset of features (Grace)
-      - some other creative ideas (Sabrina & Yujing)
+      - you might investigate different stopping criteria for the gradient descent in logistic regression, develop an automated approach to select a good subset of features 
+      - some other creative ideas
       
 
 
